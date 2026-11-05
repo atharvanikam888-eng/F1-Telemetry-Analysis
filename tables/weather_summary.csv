@@ -1,0 +1,5 @@
+,AirTemp,AirTemp,AirTemp,TrackTemp,TrackTemp,TrackTemp,Humidity,Humidity,Humidity,Pressure,Pressure,Pressure,WindSpeed,WindSpeed,WindSpeed
+,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max
+Event,,,,,,,,,,,,,,,
+Abu Dhabi,28.58,27.8,29.7,34.31,31.6,39.0,61.68,54.0,68.0,1013.52,1013.0,1014.0,2.61,1.3,4.1
+Bahrain,23.62,22.3,25.7,28.61,26.3,32.3,29.49,16.0,38.0,1010.39,1010.0,1010.7,0.3,0.0,0.8
