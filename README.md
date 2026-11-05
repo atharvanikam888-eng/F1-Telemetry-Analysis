@@ -19,19 +19,19 @@ These are descriptive summaries from two races. They are not causal estimates, a
 
 **Abu Dhabi**
 
-![Abu Dhabi compound performance](outputs/graphs/abu_dhabi_compound_performance.png)
+![Abu Dhabi compound performance](graphs/abu_dhabi_compound_performance.png)
 
 **Bahrain**
 
-![Bahrain compound performance](outputs/graphs/bahrain_compound_performance.png)
+![Bahrain compound performance](graphs/bahrain_compound_performance.png)
 
 ### Stint-level lap-time trends
 
-![Bahrain stint regression slopes](outputs/graphs/bahrain_degradation_rates.png)
+![Bahrain stint regression slopes](graphs/bahrain_degradation_rates.png)
 
 ### Telemetry comparison
 
-![Early versus late tyre-age speed difference](outputs/graphs/early_vs_late_speed_difference.png)
+![Early versus late tyre-age speed difference](graphs/early_vs_late_speed_difference.png)
 
 ## Method
 
